@@ -3,7 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
 A beautiful, user-friendly timer card for Home Assistant - perfect for the kitchen!
-
+![Timer Card Preview](images/preview.png)
 *Verfügbar in: 🇩🇪 Deutsch | 🇬🇧 English | 🇪🇸 Español*
 
 ## Features
